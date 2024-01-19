@@ -1,0 +1,72 @@
+body{
+    background-color: azure;
+}
+#main-body{
+    border: 2px solid;
+    width: 700px;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    padding: 20px;
+}
+#btn5{
+    background-color: goldenrod;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 80px;
+    padding: 7px;
+
+}
+#btn{
+   background-color: red;
+   color: white;
+   border: none;
+   width: 60px;
+   border-radius: 10px;
+   padding: 5px;
+
+
+}
+#btn1{
+    background-color:black;
+    color: white;
+    border: none;
+    width: 60px;
+    border-radius: 10px;
+    padding: 5px;
+ 
+ 
+ }
+ #btn2{
+    background-color:green;
+    color: white;
+    border: none;
+    width: 60px;
+    border-radius: 10px;
+    padding: 5px;
+ 
+ 
+ }
+ #btn3{
+    background-color:blue;
+    color: white;
+    border: none;
+    width: 60px;
+    border-radius: 10px;
+    padding: 5px;
+ }
+ #btn4{
+    background:radial-gradient(rgb(132, 82, 132),white,pink,rgb(173, 144, 173));
+    color:black;
+    border: none;
+    width: 70px;
+    border-radius: 10px;
+    padding: 5px;
+ 
+ 
+ }
+
+ 
